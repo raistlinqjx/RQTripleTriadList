@@ -1,0 +1,110 @@
+1	Geezard	1	4	5	1	 	Geezard
+1	Fungar	5	1	1	3	 	Fungar
+1	Bite Bug	1	3	3	5	 	Bite Bug
+1	Red Bat	6	1	1	2	 	Red Bat
+1	Blobra	2	3	1	5	 	Blobra
+1	Gayla	2	1	4	4	Thunder	Gayla
+1	Gesper	1	5	4	1	 	Gesper
+1	Fastitocalon-F	3	5	2	1	Earth	Fastitocalon-F
+1	Blood Soul	2	1	6	1	 	Blood Soul
+1	Caterchipillar	4	2	4	3	 	Caterchipillar
+1	Cockatrice	6	1	2	6	Thunder	Cockatrice
+2	Grat	7	1	3	1	 	Grat
+2	Buel	6	2	2	3	 	Buel
+2	Mesmerize	5	3	3	4	 	Mesmerize
+2	Glacial Eye	6	1	4	3	Ice	Glacial Eye
+2	Belhelmel	3	4	5	3	 	Belhelmel
+2	Thrustaevis	5	3	2	5	Wind	Thrustaevis
+2	Anacondaur	5	1	3	5	Poison	Anacondaur
+2	Creeps	5	2	5	2	Thunder	Creeps
+2	Grendel	4	4	5	2	Thunder	Grendel
+2	Jelleye	3	2	1	7	 	Jelleye
+2	Grand Mantis	5	2	5	3	 	Grand Mantis
+3	Forbidden	6	6	3	2	 	Forbidden
+3	Armadodo	6	3	1	6	Earth	Armadodo
+3	TriFace	3	5	5	5	Poison	TriFace
+3	Fastitcalon	7	5	1	3	Earth	Fastitcalon
+3	Snow Lion	7	1	5	3	Ice	Snow Lion
+3	Ochu	5	6	3	3	 	Ochu
+3	SAM08G	5	6	2	4	Fire	SAM08G
+3	Death Claw	4	4	7	2	Fire	Death Claw
+3	Cactaur	6	2	6	3	 	Cactaur
+3	Tonberry	3	6	4	4	 	Tonberry
+3	Abyss Worm	7	2	3	5	Earth	Abyss Worm
+4	Turtapod	2	3	6	7	 	Turtapod
+4	Vysage	6	5	4	5	 	Vysage, Lefty, Righty
+4	T-Rexaur	4	6	2	7	 	T-Rexaur
+4	Bomb	2	7	6	3	Fire	Bomb
+4	Blitz	1	6	4	7	Thunder	Blitz
+4	Wendigo	7	3	1	6	 	Wendigo
+4	Torama	7	4	4	4	 	Torama
+4	Imp	3	7	3	6	 	Imp
+4	Blue Dragon	6	2	7	3	Poison	Blue Dragon
+4	Adamantiose	4	5	5	6	Earth	Adamantiose
+4	Hexadragon	7	5	4	3	Fire	Hexadragon
+5	Iron Giant	6	5	6	5	 	Iron Giant
+5	Behemoth	3	6	5	7	 	Behemoth
+5	Chimera	7	6	5	3	Water	Chimera
+5	PuPu	3	A	2	1	 	PuPu (UFO encounters)
+5	Elastiod	6	2	6	7	 	Elastiod
+5	GIM47N	5	5	7	4	 	GIM47N
+5	Malboro	7	7	4	2	Poison	Malboro
+5	Ruby Dragon	7	2	7	4	Fire	Ruby Dragon
+5	Elnoyle	5	3	7	6	 	Elnoyle
+5	Tonberry King	4	6	7	4	 	Fatitocalon, Malboro
+5	Wedge, Biggs	6	6	2	7	 	Snow Lion, Fungaur
+6	Fujin, Raijin	2	8	8	4	 	Iron Giant, Jelleye
+6	Elvoret	7	8	3	4	Wind	Ochu, Bite Bug
+6	X-ATM092	4	8	4	3	 	SAM08G, Red Bat
+6	Grenaldo	7	2	8	5	 	Death Claw, Blobra
+6	Gerogero	1	8	8	3	Poison	Cactaur, Gayla
+6	Iguion	8	2	8	2	 	Tonberry, Gesper
+6	Abadon	6	8	4	5	 	Abyss Worm, Blood Soul
+6	Trauma	4	8	5	6	 	Turtapod, Caterchipillar
+6	Oilboyle	1	8	4	8	 	GIM47N, Cockatrice
+6	Shumi Tribe	6	5	8	4	 	TRexaur, Grat
+6	Krysta	7	5	8	1	 	Bomb, Buel789
+7	Propagator	8	4	4	8	 	Blitz, Mesmerize
+7	Jumbo Cactaur	8	8	4	4	 	Wendigo, Glacial Eye
+7	Tri-Point	8	5	2	8	Thunder	Torama, Belhelmel
+7	Gargantua	5	6	6	8	 	Imp, Thrustaevis
+7	Mobile Type 8	8	6	7	3	 	Blue Dragon, Anacondaur
+7	Sphinxara	8	3	5	8	 	Adamantoise, Creeps
+7	Tiamat	8	8	5	4	 	Hexadragon, Grendel
+7	BGH251F2	5	7	8	5	 	Behemoth,Grand Mantis
+7	Red Giant	6	8	4	7	 	Chimera, Forbidden
+7	Catoblepas	1	8	7	7	 	Elnoyle, Armadodo
+7	Ultima Weapon	7	7	2	8	 	Elastiod, Tri-Face
+8	Chubby Chocobo	4	4	8	9	 	Card Queen
+8	Angelo	9	6	7	3	 	Forest Owl's Train or White Seed Ship
+8	Gilgamesh	3	7	9	6	 	CC King
+8	MinMog	9	3	9	2	 	Balamb Garden
+8	Chicobo	9	4	8	4	 	Chocobo Forests
+8	Quezacotl	2	9	9	4	Thunder	FH (Mayor Dobe)
+8	Shiva	6	7	4	9	Ice	White SeeD Ship (Zone)
+8	Ifrit	9	6	2	8	Fire	Fire Cavern (Ifrit)
+8	Siren	9	6	2	8	 	Dollet Pub
+8	Sacred	5	1	9	9	Earth	Brothers
+8	Minotaur	9	9	2	5	Earth	Tomb of the Unknown King
+9	Carbuncle	8	4	A	4	 	CC Heart (Xu)
+9	Diablos	5	A	8	3	 	Diablos
+9	Leviathan	7	A	1	7	Water	CC Joker
+9	Odin	8	A	3	5	 	Odin
+9	Pandemona	A	1	7	7	Wind	Balamb
+9	Cerberus	7	4	6	A	 	Cerberus
+9	Alexander	9	A	4	2	Holy	Piet (Lunar Base)
+9	Phoenix	7	2	7	A	Fire	Card Queen
+9	Bahumut	A	8	2	6	 	Bahamut
+9	Doomtrain	3	1	A	A	Poison	Card Queen
+9	Eden	4	4	9	A	 	Ultima Weapon
+10	Ward	A	7	2	8	 	Dr. Odine
+10	Kiros	6	7	6	A	 	Card Queen
+10	Laguna	5	A	3	9	 	Ellone
+10	Selphie	A	8	4	6	 	Trabia Garden
+10	Quistis	9	6	A	2	 	Balamb Garden
+10	Irvine	2	6	9	A	 	Card Queen
+10	Zell	8	5	A	6	 	Zell's Mother
+10	Rinoa	4	A	2	A	 	Rinoa's Father
+10	Edea	A	A	3	3	 	Edea
+10	Seifer	6	9	A	4	 	Cid
+10	Squall	A	A	9	6	 	Laguna

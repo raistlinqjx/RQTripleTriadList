@@ -13,6 +13,12 @@
 		15A359B91DF26C1600811344 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15A359B71DF26C1600811344 /* Main.storyboard */; };
 		15A359BB1DF26C1600811344 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15A359BA1DF26C1600811344 /* Assets.xcassets */; };
 		15A359BE1DF26C1600811344 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15A359BC1DF26C1600811344 /* LaunchScreen.storyboard */; };
+		15A359C91DF26C5100811344 /* cards_blue in Resources */ = {isa = PBXBuildFile; fileRef = 15A359C61DF26C5100811344 /* cards_blue */; };
+		15A359CA1DF26C5100811344 /* cards_red in Resources */ = {isa = PBXBuildFile; fileRef = 15A359C71DF26C5100811344 /* cards_red */; };
+		15A359CB1DF26C5100811344 /* TripleTriad_array.plist in Resources */ = {isa = PBXBuildFile; fileRef = 15A359C81DF26C5100811344 /* TripleTriad_array.plist */; };
+		15A359CD1DF26CCD00811344 /* TripleTriad_dict.plist in Resources */ = {isa = PBXBuildFile; fileRef = 15A359CC1DF26CCD00811344 /* TripleTriad_dict.plist */; };
+		15A359CF1DF2721F00811344 /* TripleTriad.txt in Resources */ = {isa = PBXBuildFile; fileRef = 15A359CE1DF2721F00811344 /* TripleTriad.txt */; };
+		15A359D31DF272C100811344 /* RQCardModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 15A359D21DF272C100811344 /* RQCardModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +32,13 @@
 		15A359BA1DF26C1600811344 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15A359BD1DF26C1600811344 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		15A359BF1DF26C1600811344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		15A359C61DF26C5100811344 /* cards_blue */ = {isa = PBXFileReference; lastKnownFileType = folder; path = cards_blue; sourceTree = "<group>"; };
+		15A359C71DF26C5100811344 /* cards_red */ = {isa = PBXFileReference; lastKnownFileType = folder; path = cards_red; sourceTree = "<group>"; };
+		15A359C81DF26C5100811344 /* TripleTriad_array.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TripleTriad_array.plist; sourceTree = "<group>"; };
+		15A359CC1DF26CCD00811344 /* TripleTriad_dict.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TripleTriad_dict.plist; sourceTree = "<group>"; };
+		15A359CE1DF2721F00811344 /* TripleTriad.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TripleTriad.txt; sourceTree = "<group>"; };
+		15A359D11DF272C100811344 /* RQCardModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RQCardModel.h; path = classes/RQCardModel.h; sourceTree = "<group>"; };
+		15A359D21DF272C100811344 /* RQCardModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RQCardModel.m; path = classes/RQCardModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +71,8 @@
 		15A359AD1DF26C1600811344 /* RQTripleTriadList */ = {
 			isa = PBXGroup;
 			children = (
+				15A359D01DF2727E00811344 /* Classes */,
+				15A359C51DF26C1E00811344 /* Resource */,
 				15A359B11DF26C1600811344 /* AppDelegate.h */,
 				15A359B21DF26C1600811344 /* AppDelegate.m */,
 				15A359B41DF26C1600811344 /* ViewController.h */,
@@ -77,6 +92,27 @@
 				15A359AF1DF26C1600811344 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		15A359C51DF26C1E00811344 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				15A359C61DF26C5100811344 /* cards_blue */,
+				15A359C71DF26C5100811344 /* cards_red */,
+				15A359C81DF26C5100811344 /* TripleTriad_array.plist */,
+				15A359CC1DF26CCD00811344 /* TripleTriad_dict.plist */,
+				15A359CE1DF2721F00811344 /* TripleTriad.txt */,
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
+		15A359D01DF2727E00811344 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				15A359D11DF272C100811344 /* RQCardModel.h */,
+				15A359D21DF272C100811344 /* RQCardModel.m */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +174,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				15A359BE1DF26C1600811344 /* LaunchScreen.storyboard in Resources */,
+				15A359CF1DF2721F00811344 /* TripleTriad.txt in Resources */,
 				15A359BB1DF26C1600811344 /* Assets.xcassets in Resources */,
+				15A359C91DF26C5100811344 /* cards_blue in Resources */,
+				15A359CB1DF26C5100811344 /* TripleTriad_array.plist in Resources */,
+				15A359CD1DF26CCD00811344 /* TripleTriad_dict.plist in Resources */,
+				15A359CA1DF26C5100811344 /* cards_red in Resources */,
 				15A359B91DF26C1600811344 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -152,6 +193,7 @@
 			files = (
 				15A359B61DF26C1600811344 /* ViewController.m in Sources */,
 				15A359B31DF26C1600811344 /* AppDelegate.m in Sources */,
+				15A359D31DF272C100811344 /* RQCardModel.m in Sources */,
 				15A359B01DF26C1600811344 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,9 +312,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = RQTripleTriadList/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.RainbowQueue.RQTripleTriadList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RainbowQueue.RQTripleTriadLite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -281,9 +325,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = RQTripleTriadList/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.RainbowQueue.RQTripleTriadList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.RainbowQueue.RQTripleTriadLite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
